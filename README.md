@@ -1,1 +1,1 @@
-📝✨ The To-Do List application is your simple yet powerful companion for staying organized! Easily add, edit, and delete tasks, set deadlines, and check off completed items—all with an intuitive interface. 🎯⏰ Whether you’re managing daily chores or big projects, this app helps you boost productivity and keep life on track. 🚀✅
+
